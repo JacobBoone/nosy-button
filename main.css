@@ -1,0 +1,12 @@
+.butt{
+	background-color: green;
+	border-radius: 100px;
+	width: 200px;
+	height: 200px;
+	margin: 150px;
+	text-align: center;
+	padding-top: 75px;
+	font-weight: bold;
+	color: white;
+	font-size: 30px;
+}
